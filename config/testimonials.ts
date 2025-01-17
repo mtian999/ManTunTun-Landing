@@ -1,75 +1,74 @@
-
 export const TestimonialsData = [
   {
     user: {
-      name: "Founder",
+      name: "Alex Johnson",
       username: "weijunext",
       image: "/images/users/weijunext.jpeg",
     },
     content:
-      "As a front-end developer, I'm highly satisfied with this landing page template. Editing text and images was very intuitive, and I encountered no technical hurdles throughout the process. The template's responsive design is excellent as well; whether on mobile or desktop, the page layout adapts perfectly. I managed to launch my own product's landing page in just half a day, significantly boosting my efficiency.",
+      "Snail Timer has completely transformed my productivity. As a developer, I often get distracted by non-work websites, but now the cute snail keeps me focused. The customizable work site list and timer settings make it perfect for my workflow.",
   },
   {
     user: {
-      name: "User1",
+      name: "Sarah Thompson",
       username: "weijunext",
       image: "/images/users/1.png",
     },
     content:
-      "This template has given me a new perspective on coding. As a backend developer with not much front-end experience, I found this template to be very user-friendly. I could build a professional-looking landing page with hardly any coding required. This not only saved me time but also sparked more interest in front-end development.",
+      "This extension is a game-changer! The visual reminder of the snail slowly covering the screen is both motivating and fun. I've noticed a significant improvement in my ability to stay focused during work hours.",
   },
   {
     user: {
-      name: "User2",
+      name: "Michael Chen",
       username: "weijunext",
       image: "/images/users/2.png",
     },
     content:
-      "As a developer who transitioned from design, I'm impressed with the aesthetic design of this template. It's not only easy to use but also comes with a default design that feels both modern and professional. I made some adjustments to the details to match my brand style, and the entire process was both simple and enjoyable.",
+      "I love how Snail Timer makes productivity fun. The gradual visual feedback helps me stay aware of how much time I'm wasting, and the cute snail animation makes it less stressful than traditional productivity tools.",
   },
   {
     user: {
-      name: "User3",
+      name: "Emily Rodriguez",
       username: "weijunext",
       image: "/images/users/3.png",
     },
     content:
-      "The performance of this template is outstanding, with very fast loading times and SEO-friendly features. As a developer focused on product optimization, I appreciate the high performance and optimization of the template. With simple modifications, I was able to further optimize my landing page, improving the speed at which users can access it. The SEO friendliness of the template also helped my page achieve better rankings in search engines.",
+      "As someone who struggles with procrastination, Snail Timer has been incredibly helpful. The gentle yet persistent reminder to stay on task has helped me develop better browsing habits without feeling overwhelmed.",
   },
   {
     user: {
-      name: "User4",
+      name: "David Wilson",
       username: "weijunext",
       image: "/images/users/4.png",
     },
     content:
-      "The interactive elements of this template added a lot of fun to my project. I particularly liked the settings for animations and transition effects, which made the browsing experience richer and more dynamic. Adjusting these interactive elements was very straightforward, requiring no deep front-end knowledge, which was very user-friendly for a non-professional front-end developer like me.",
+      "The customization options are fantastic! I can set my own work-related sites and adjust the timer to match my work style. It's like having a personal productivity coach in my browser.",
   },
   {
     user: {
-      name: "User5",
+      name: "Jessica Lee",
       username: "weijunext",
       image: "/images/users/5.png",
     },
     content:
-      "This template does a great job with multi-language support, which is crucial for my international project. I was able to easily add different language versions, and the template ensured consistency in layout and design across various languages. This significantly reduced my workload in the localization process and helped me reach global users more quickly.",
+      "Snail Timer has helped me break my social media addiction during work hours. The visual progression of the snail is a perfect balance between being noticeable and not too intrusive. Highly recommend!",
   },
   {
     user: {
-      name: "User6",
+      name: "Daniel Brown",
       username: "weijunext",
       image: "/images/users/4.png",
     },
     content:
-      "The interactive elements of this template added a lot of fun to my project. I particularly liked the settings for animations and transition effects, which made the browsing experience richer and more dynamic. Adjusting these interactive elements was very straightforward, requiring no deep front-end knowledge, which was very user-friendly for a non-professional front-end developer like me.",
+      "I've tried many productivity extensions, but Snail Timer stands out with its unique approach. The cute snail animation makes me smile even when I'm being reminded to get back to work. It's effective and enjoyable to use.",
   },
   {
     user: {
-      name: "User7",
+      name: "Olivia Martinez",
       username: "weijunext",
       image: "/images/users/5.png",
     },
     content:
-      "This template does a great job with multi-language support, which is crucial for my international project. I was able to easily add different language versions, and the template ensured consistency in layout and design across various languages. This significantly reduced my workload in the localization process and helped me reach global users more quickly.",
+      "This extension has helped me stay focused during my online classes. I can set my study-related sites and the snail keeps me from wandering off to distracting websites. It's simple yet incredibly effective.",
   },
 ];

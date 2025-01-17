@@ -1,390 +1,451 @@
 export const FAQS_EN = [
   {
-    title: "What is Zi Wei Dou Shu?",
+    title: "What is the ManTunTun🐌 Snail Timer extension?",
     content:
-      "Zi Wei Dou Shu, an ancient Chinese astrology, is not only a form of entertainment but also a tool for deeply understanding oneself and future trends. We are committed to making the charm of Zi Wei Dou Shu accessible to everyone in the simplest and most understandable way.",
+      "The ManTunTun🐌 Snail Timer is a Chrome browser extension designed to improve work efficiency. When you visit non-work-related websites, a cute snail will start chasing you, gradually covering the entire page until you return to work. It helps you develop good internet habits in a fun way. It is Ready to use and very Lightweight.",
   },
   {
-    title: "Why choose Zi Wei Dou Shu?",
+    title: "How does the ManTunTun🐌 Snail Timer extension work?",
     content:
-      "Zi Wei Dou Shu not only analyzes personal character but also covers multiple aspects such as health, wealth, career, and interpersonal relationships. It integrates ancient Chinese philosophical thoughts, such as the theory of Yin and Yang and the Five Elements, offering a unique cultural experience. Each person's destiny chart is unique, and Zi Wei Dou Shu can provide more personalized and in-depth analysis.",
+      "When you visit a non-work website, the extension automatically detects and starts the snail animation. The snail slowly chases you from the bottom of the page, gradually covering the page content over time. You can stop the snail by returning to a work website or setting a custom list of work websites. This makes it more efficient.",
   },
   {
-    title: "Is Zi Wei Dou Shu accurate?",
+    title: "How do I set up work websites?",
     content:
-      "Zi Wei Dou Shu is a traditional astrology, and its accuracy depends on various factors, including the accuracy of the birth time and the professional level of the interpreter.",
+      "Click the extension icon to open the settings page, and add your frequently used work-related websites to the 'Work Websites' list. You can add or remove websites at any time, and the extension will automatically save your settings. This is Convenient and Easy.",
   },
   {
-    title: "How long does it take to generate a destiny chart?",
+    title: "Can I adjust the snail speed?",
     content:
-      "Our service is designed for quick response, and you can almost instantly receive the analysis results of your destiny chart.",
+      "Yes, you can adjust the snail timer on the settings page. We offer an adjustment range of 1-120 minutes, allowing you to choose the appropriate setting according to your work habits. This feature makes it more Effective.",
   },
   {
-    title: "Can the destiny chart results be shared?",
+    title: "Will the extension affect computer performance?",
     content:
-      "Of course, you can share your destiny chart results on social media and discuss with friends.",
+      "The ManTunTun🐌 Snail Timer extension is optimized to use minimal resources and will not affect your computer's normal operation. If you experience any performance issues, please feel free to contact us. It is very Practical and Simple to use.",
   },
 ];
 
 export const FAQS_ZH = [
   {
-    title: "什么是紫微斗数？",
+    title: "什么是慢吞吞🐌蜗牛倒计时插件？",
     content:
-      "紫微斗数，一门源远流长的中国命理学，不仅是一种娱乐方式，更是一种深入了解自我和未来趋势的工具。我们致力于以最简单易懂的方式，让每个人都能体验到紫微斗数的魅力。",
+      "慢吞吞🐌蜗牛倒计时是一款帮助提高工作效率的Chrome浏览器插件。当你访问非工作相关网站时，一只可爱的蜗牛会开始追赶你，逐渐覆盖整个页面，直到你回到工作状态。通过这种有趣的方式帮助你培养良好的上网习惯。",
   },
   {
-    title: "为什么选择紫微斗数？",
+    title: "慢吞吞🐌蜗牛倒计时插件如何工作？",
     content:
-      "紫微斗数不仅分析个人性格，还涵盖了健康、财富、事业和人际关系等多个方面。紫微斗数融合了中国古代的哲学思想，如阴阳五行理论，提供了一种独特的文化体验。每个人的命盘都是独一无二的，紫微斗数能够提供更为个性化和深入的分析。",
+      "当你访问非工作网站时，插件会自动检测并启动蜗牛动画。蜗牛会在页面底部慢慢追赶，随着时间的推移页面内容会被逐渐覆盖。你可以通过返回工作网站来停止蜗牛，或者设置自定义的工作网站列表。",
   },
   {
-    title: "紫微斗数准确吗？",
+    title: "如何设置工作网站？",
     content:
-      "紫微斗数是一种传统命理学，其准确性取决于多种因素，包括出生时间的准确性和解读者的专业水平。",
+      "点击插件图标打开设置页面，在'工作网站'列表中添加你常用的工作相关网站。你可以随时添加或删除网站，插件会自动保存你的设置。",
   },
   {
-    title: "生成命盘需要多长时间？",
-    content: "我们的服务设计为快速响应，您几乎可以即时获得命盘分析结果。",
+    title: "可以调整蜗牛速度吗？",
+    content:
+      "是的，你可以在设置页面调整蜗牛的倒计时。我们提供了1-120分钟的调整范围，你可以根据自己的工作习惯选择合适的设置。",
   },
   {
-    title: "命盘结果可以分享吗？",
-    content: "当然可以，您可以在社交媒体上分享您的命盘结果，与朋友一起探讨。",
+    title: "插件会影响电脑性能吗？",
+    content:
+      "慢吞吞🐌蜗牛倒计时插件经过优化设计，占用资源极少，不会影响电脑的正常使用。如果你发现任何性能问题，请随时联系我们。",
   },
 ];
 
 export const FAQS_TW = [
   {
-    title: "什麼是紫微斗數？",
+    title: "什麼是ManTunTun🐌Snail Timer外掛程式？",
     content:
-      "紫微斗數，一門源遠流長的中國命理學，不僅是一種娛樂方式，更是一種深入了解自我和未來趨勢的工具。我們致力於以最簡單易懂的方式，讓每個人都能體驗到紫微斗數的魅力。",
+      "ManTunTun🐌Snail Timer是一款旨在提高工作效率的Chrome瀏覽器外掛程式。當您訪問非工作相關的網站時，一隻可愛的蝸牛會開始追趕您，逐漸覆蓋整個頁面，直到您回到工作狀態。它以一種有趣的方式幫助您培養良好的上網習慣。它是即用型的，並且非常輕便。",
   },
   {
-    title: "為什麼選擇紫微斗數？",
+    title: "ManTunTun🐌Snail Timer外掛程式如何運作？",
     content:
-      "紫微斗數不僅分析個人性格，還涵蓋了健康、財富、事業和人際關係等多個方面。紫微斗數融合了中國古代的哲學思想，如陰陽五行理論，提供了一種獨特的文化體驗。每個人的命盤都是獨一無二的，紫微斗數能夠提供更為個性化和深入的分析。",
+      "當您訪問非工作網站時，外掛程式會自動偵測並啟動蝸牛動畫。蝸牛會從頁面底部慢慢追趕，隨著時間的推移逐漸覆蓋頁面內容。您可以通過返回工作網站或設定自訂的工作網站清單來停止蝸牛。這使得它更有效率。",
   },
   {
-    title: "紫微斗數準確嗎？",
+    title: "如何設定工作網站？",
     content:
-      "紫微斗數是一種傳統命理學，其準確性取決於多種因素，包括出生時間的準確性和解讀者專業水平。",
+      "點擊外掛程式圖示開啟設定頁面，並在「工作網站」清單中添加您常用的工作相關網站。您可以隨時添加或刪除網站，外掛程式會自動儲存您的設定。這既方便又簡單。",
   },
   {
-    title: "生成命盤需要多少時間？",
-    content: "我們的服務設計為快速響應，您幾乎可以即時獲得命盤分析結果。",
+    title: "可以調整蝸牛速度嗎？",
+    content:
+      "是的，您可以在設定頁面調整蝸牛的倒數計時。我們提供了1-120分鐘的調整範圍，允許您根據自己的工作習慣選擇合適的設定。此功能使其更加有效。",
   },
   {
-    title: "命盤結果可以分享嗎？",
-    content: "當然可以，您可以在社交媒體上分享您的命盤結果，與朋友一起探討。",
+    title: "外掛程式會影響電腦效能嗎？",
+    content:
+      "ManTunTun🐌Snail Timer外掛程式經過最佳化設計，佔用極少的資源，不會影響您的電腦正常運作。如果您遇到任何效能問題，請隨時聯繫我們。它非常實用且易於使用。",
   },
 ];
 
 export const FAQS_JA = [
   {
-    title: "紫微斗数とは何ですか？",
+    title: "ManTunTun🐌Snail Timer拡張機能とは何ですか？",
     content:
-      "紫微斗数は、中国の命理学の源遠流長なものであり、娯楽の方法だけでなく、自己や未来の傾向を深く理解するためのツールです。私たちは、紫微斗数の魅力を誰もが体験できるように、最も簡単に理解できる方法で提供することを目指しています。",
+      "ManTunTun🐌Snail Timerは、作業効率を向上させるために設計されたChromeブラウザ拡張機能です。仕事に関係のないウェブサイトを訪問すると、かわいいカタツムリがあなたを追いかけ始め、仕事に戻るまでページ全体を徐々に覆い隠します。これは、楽しい方法で良いインターネット習慣を身につけるのに役立ちます。すぐに使用でき、非常に軽量です。",
   },
   {
-    title: "なぜ紫微斗数を選ぶのですか？",
+    title: "ManTunTun🐌Snail Timer拡張機能はどのように機能しますか？",
     content:
-      "紫微斗数は、個人の性格分析だけでなく、健康、財産、事業、人間関係など多くの方面をカバーしています。紫微斗数は、陰陽五行の理論などの中国古代の哲学思想を組み合わせ、独特の文化体験を提供しています。誰の命盤も一意であり、紫微斗数はより個人化された深い分析を提供できます。",
+      "仕事に関係のないウェブサイトを訪問すると、拡張機能は自動的に検出してカタツムリのアニメーションを開始します。カタツムリはページの下部からゆっくりと追いかけ、時間の経過とともに徐々にページコンテンツを覆い隠します。作業ウェブサイトに戻るか、作業ウェブサイトのカスタムリストを設定することで、カタツムリを停止できます。これにより、より効率的になります。",
   },
   {
-    title: "紫微斗数は正確ですか？",
+    title: "作業ウェブサイトの設定方法は？",
     content:
-      "紫微斗数は伝統的な命理学であり、正確性は出生時刻の正確性や解釈者の専門レベルなど、多くの要因に依存します。",
+      "拡張機能のアイコンをクリックして設定ページを開き、「作業ウェブサイト」リストによく使用する仕事関連のウェブサイトを追加します。いつでもウェブサイトを追加または削除でき、拡張機能は自動的に設定を保存します。これは便利で簡単です。",
   },
   {
-    title: "命盤を生成するにはどれくらいの時間がかかりますか？",
+    title: "カタツムリの速度を調整できますか？",
     content:
-      "私たちのサービスは迅速な応答を設計しており、ほぼ即時に命盤分析の結果を得ることができます。",
+      "はい、設定ページでカタツムリのタイマーを調整できます。1〜120分の調整範囲を提供しており、ご自身の作業習慣に合わせて適切な設定を選択できます。この機能により、より効果的になります。",
   },
   {
-    title: "命盤の結果は共有できますか？",
+    title: "拡張機能はコンピュータのパフォーマンスに影響を与えますか？",
     content:
-      "もちろんです、ソーシャルメディアで命盤の結果を共有し、友達と共有して議論することができます。",
+      "ManTunTun🐌Snail Timer拡張機能は、最小限のリソースを使用するように最適化されており、コンピュータの正常な動作に影響を与えることはありません。パフォーマンスの問題が発生した場合は、お気軽にお問い合わせください。非常に実用的で使いやすいです。",
   },
 ];
 
 export const FAQS_AR = [
   {
-    title: "ما هو زوي دو شو؟",
+    title: "ما هو امتداد ManTunTun🐌 Snail Timer؟",
     content:
-      "زوي دو شو هو علم الأstral الصينية القديمة، و ليس فقط شكل من أشكال الترفيه بل أيضا أداة لفهم النفس العميق والاتجاهات المستقبلية. نحن ملتزمون بجعل جاذبية زوي دو شو متاحة لجميع الناس بطريقة أبسط وأسهل للفهم.",
+      "ManTunTun🐌 Snail Timer هو امتداد لمتصفح Chrome مصمم لتحسين كفاءة العمل. عند زيارة مواقع ويب غير متعلقة بالعمل، سيبدأ حلزون لطيف بمطاردتك، ويغطي الصفحة بأكملها تدريجيًا حتى تعود إلى العمل. يساعدك على تطوير عادات إنترنت جيدة بطريقة ممتعة. إنه جاهز للاستخدام وخفيف الوزن للغاية.",
   },
   {
-    title: "لماذا تختار زوي دو شو؟",
+    title: "كيف يعمل امتداد ManTunTun🐌 Snail Timer؟",
     content:
-      "زوي دو شو يحل الشخصية الشخصية ولكنه يغطي جوانب متعددة مثل الصحة والمال والمهنة والعلاقات الإنسانية. يدمج الأفكار الفلسفية الصينية القديمة، مثل نظرية الين والعناصر الخمس، يوفر تجربة ثقافية فريدة. خريطة مصير كل شخص فريدة، ويمكن أن يوفر زوي دو شو تحليل أكثر شخصية وعمق.",
+      "عند زيارة موقع ويب غير متعلق بالعمل، يكتشف الامتداد تلقائيًا ويبدأ الرسوم المتحركة للحلزون. يطاردك الحلزون ببطء من أسفل الصفحة، ويغطي محتوى الصفحة تدريجيًا بمرور الوقت. يمكنك إيقاف الحلزون بالعودة إلى موقع ويب للعمل أو تعيين قائمة مخصصة لمواقع الويب الخاصة بالعمل. هذا يجعله أكثر كفاءة.",
   },
   {
-    title: "هل زوي دو شو دقيق؟",
+    title: "كيف يمكنني إعداد مواقع الويب الخاصة بالعمل؟",
     content:
-      "زوي دو شو هو علم الأstral التقليدي، والدقة تعتمد على عوامل متعددة، بما في ذلك دقة وقت الولادة ومستوى المحترف في التفسير.",
+      "انقر فوق رمز الامتداد لفتح صفحة الإعدادات، وأضف مواقع الويب المتعلقة بالعمل التي تستخدمها بشكل متكرر إلى قائمة 'مواقع الويب الخاصة بالعمل'. يمكنك إضافة أو إزالة مواقع الويب في أي وقت، وسيحفظ الامتداد إعداداتك تلقائيًا. هذا مريح وسهل.",
   },
   {
-    title: "ما مدة إنشاء الخريطة المصير؟",
+    title: "هل يمكنني ضبط سرعة الحلزون؟",
     content:
-      "نحن نصمم خدمتنا لاستجابة سريعة، ويمكنك تقريبًا على الفور تلقي نتائج تحليل الخريطة المصير الخاصة بك.",
+      "نعم، يمكنك ضبط مؤقت الحلزون في صفحة الإعدادات. نحن نقدم نطاق تعديل من 1 إلى 120 دقيقة، مما يتيح لك اختيار الإعداد المناسب وفقًا لعادات عملك. هذه الميزة تجعلها أكثر فعالية.",
   },
   {
-    title: "هل يمكن مشاركة نتائج الخريطة المصير؟",
+    title: "هل سيؤثر الامتداد على أداء الكمبيوتر؟",
     content:
-      "بالطبع، يمكنك مشاركة نتائج الخريطة المصير الخاصة بك على وسائل التواصل الاجتماعي ومناقشة مع الأصدقاء.",
+      "تم تحسين امتداد ManTunTun🐌 Snail Timer لاستخدام الحد الأدنى من الموارد ولن يؤثر على التشغيل الطبيعي لجهاز الكمبيوتر الخاص بك. إذا واجهت أي مشاكل في الأداء، فلا تتردد في الاتصال بنا. إنه عملي وبسيط للغاية للاستخدام.",
   },
 ];
 
 export const FAQS_ES = [
   {
-    title: "¿Qué es Zi Wei Dou Shu?",
+    title: "¿Qué es la extensión ManTunTun🐌 Snail Timer?",
     content:
-      "Zi Wei Dou Shu, una astrología china antigua, no es solo una forma de entretenimiento sino también una herramienta para comprender profundamente a uno mismo y las tendencias futuras. Estamos comprometidos en hacer accesible el encanto de Zi Wei Dou Shu a todos de la manera más simple y comprensible.",
+      "ManTunTun🐌 Snail Timer es una extensión del navegador Chrome diseñada para mejorar la eficiencia en el trabajo. Cuando visitas sitios web no relacionados con el trabajo, un lindo caracol comenzará a perseguirte, cubriendo gradualmente toda la página hasta que vuelvas al trabajo. Te ayuda a desarrollar buenos hábitos de internet de una manera divertida. Está lista para usar y es muy ligera.",
   },
   {
-    title: "¿Por qué elegir Zi Wei Dou Shu?",
+    title: "¿Cómo funciona la extensión ManTunTun🐌 Snail Timer?",
     content:
-      "Zi Wei Dou Shu no solo analiza el carácter personal sino que también abarca múltiples aspectos como la salud, la riqueza, la carrera y las relaciones interpersonales. Integra pensamientos filosóficos chinos antiguos, como la teoría del Yin y el Yang y los Cinco Elementos, ofreciendo una experiencia cultural única. El gráfico del destino de cada persona es único, y Zi Wei Dou Shu puede proporcionar un análisis más personalizado e íntimo.",
+      "Cuando visitas un sitio web no laboral, la extensión detecta automáticamente e inicia la animación del caracol. El caracol te persigue lentamente desde la parte inferior de la página, cubriendo gradualmente el contenido de la página con el tiempo. Puedes detener al caracol volviendo a un sitio web laboral o configurando una lista personalizada de sitios web laborales. Esto lo hace más eficiente.",
   },
   {
-    title: "¿Es Zi Wei Dou Shu preciso?",
+    title: "¿Cómo configuro los sitios web de trabajo?",
     content:
-      "Zi Wei Dou Shu es una astrología tradicional, y su precisión depende de varios factores, incluida la precisión de la hora de nacimiento y el nivel profesional del intérprete.",
+      "Haz clic en el icono de la extensión para abrir la página de configuración y añade tus sitios web relacionados con el trabajo de uso frecuente a la lista de 'Sitios web de trabajo'. Puedes añadir o eliminar sitios web en cualquier momento, y la extensión guardará automáticamente tu configuración. Es cómodo y fácil.",
   },
   {
-    title: "¿Cuánto tiempo toma generar un gráfico del destino?",
+    title: "¿Puedo ajustar la velocidad del caracol?",
     content:
-      "Nuestro servicio está diseñado para una respuesta rápida, y casi inmediatamente puedes recibir los resultados del análisis de tu gráfico del destino.",
+      "Sí, puedes ajustar el temporizador del caracol en la página de configuración. Ofrecemos un rango de ajuste de 1 a 120 minutos, lo que te permite elegir la configuración adecuada según tus hábitos de trabajo. Esta función lo hace más efectivo.",
   },
   {
-    title: "¿Se pueden compartir los resultados del gráfico del destino?",
+    title: "¿Afectará la extensión al rendimiento del ordenador?",
     content:
-      "Por supuesto, puedes compartir los resultados de tu gráfico del destino en las redes sociales y discutir con amigos.",
+      "La extensión ManTunTun🐌 Snail Timer está optimizada para usar recursos mínimos y no afectará el funcionamiento normal de tu ordenador. Si experimentas algún problema de rendimiento, no dudes en contactarnos. Es muy práctico y sencillo de usar.",
   },
 ];
 
 export const FAQS_RU = [
   {
-    title: "Что такое Зи Вэй Доу Шу?",
+    title: "Что такое расширение ManTunTun🐌 Snail Timer?",
     content:
-      "Зи Вэй Доу Шу, древняя китайская астрология, является не только развлечением, но и инструментом для глубокого понимания себя и будущих тенденций. Мы стремимся сделать очарование Зи Вэй Доу Шу доступным для всех самым простым и понятным способом.",
+      "ManTunTun🐌 Snail Timer — это расширение для браузера Chrome, разработанное для повышения эффективности работы. Когда вы посещаете веб-сайты, не связанные с работой, милый улитка начнет преследовать вас, постепенно закрывая всю страницу, пока вы не вернетесь к работе. Это помогает вам выработать хорошие интернет-привычки в игровой форме. Готово к использованию и очень легковесное.",
   },
   {
-    title: "Почему выбирают Зи Вэй Доу Шу?",
+    title: "Как работает расширение ManTunTun🐌 Snail Timer?",
     content:
-      "Зи Вэй Доу Шу анализирует не только личный характер, но также охватывает множество аспектов, таких как здоровье, богатство, карьера и межличностные отношения. Он интегрирует древние китайские философские мысли, такие как теория Йинь и Ян и пяти элементов, предоставляя уникальный культурный опыт. Каждая судьба человека уникальна, и Зи Вэй Доу Шу может предоставить более персонализированную и глубокую аналитику.",
+      "Когда вы посещаете веб-сайт, не связанный с работой, расширение автоматически обнаруживает это и запускает анимацию улитки. Улитка медленно преследует вас снизу страницы, постепенно закрывая содержимое страницы с течением времени. Вы можете остановить улитку, вернувшись на рабочий веб-сайт или установив собственный список рабочих веб-сайтов. Это делает его более эффективным.",
   },
   {
-    title: "Точна ли Зи Вэй Доу Шу?",
+    title: "Как настроить рабочие веб-сайты?",
     content:
-      "Зи Вэй Доу Шу является традиционной астрологией, и ее точность зависит от различных факторов, включая точность рождения времени и профессиональный уровень интерпретации.",
+      "Щелкните значок расширения, чтобы открыть страницу настроек, и добавьте часто используемые рабочие веб-сайты в список «Рабочие веб-сайты». Вы можете добавлять или удалять веб-сайты в любое время, и расширение автоматически сохранит ваши настройки. Это удобно и просто.",
   },
   {
-    title: "Как долго занимает генерация судьбы карты?",
+    title: "Можно ли настроить скорость улитки?",
     content:
-      "Наша служба разработана для быстрого ответа, и вы можете практически мгновенно получить результаты анализа вашей судьбы карты.",
+      "Да, вы можете настроить таймер улитки на странице настроек. Мы предлагаем диапазон регулировки от 1 до 120 минут, что позволяет вам выбрать подходящую настройку в соответствии с вашими рабочими привычками. Эта функция делает его более эффективным.",
   },
   {
-    title: "Могут ли результаты судьбы карты быть опубликованы?",
+    title: "Повлияет ли расширение на производительность компьютера?",
     content:
-      "Конечно, вы можете опубликовать результаты вашей судьбы карты в социальных медиа и обсудить с друзьями.",
+      "Расширение ManTunTun🐌 Snail Timer оптимизировано для использования минимального количества ресурсов и не повлияет на нормальную работу вашего компьютера. Если у вас возникнут какие-либо проблемы с производительностью, пожалуйста, свяжитесь с нами. Это очень практично и просто в использовании.",
   },
 ];
 
 export const FAQS_DE = [
   {
-    title: "Was ist Zi Wei Dou Shu?",
+    title: "Was ist die ManTunTun🐌 Snail Timer-Erweiterung?",
     content:
-      "Zi Wei Dou Shu ist eine alte chinesische Schicksalskunst, die nicht nur als Unterhaltung dient, sondern auch als Werkzeug zur tiefen Selbstverständnis und zur Vorhersage zukünftiger Trends. Wir sind bestrebt, Zi Wei Dou Shu in einer einfach verständlichen Weise zu präsentieren, damit jeder die Faszination dieser Kunst erfahren kann.",
+      "ManTunTun🐌 Snail Timer ist eine Chrome-Browsererweiterung, die entwickelt wurde, um die Arbeitseffizienz zu verbessern. Wenn Sie nicht arbeitsbezogene Websites besuchen, beginnt eine süße Schnecke, Sie zu verfolgen und die gesamte Seite schrittweise abzudecken, bis Sie zur Arbeit zurückkehren. Sie hilft Ihnen auf spielerische Weise, gute Internetgewohnheiten zu entwickeln. Sie ist sofort einsatzbereit und sehr leicht.",
   },
   {
-    title: "Warum Zi Wei Dou Shu wählen?",
+    title: "Wie funktioniert die ManTunTun🐌 Snail Timer-Erweiterung?",
     content:
-      "Zi Wei Dou Shu analysiert nicht nur das Persönlichkeitsprofil einer Person, sondern umfasst auch Gesundheit, Reichtum, Karriere und Beziehungen zu anderen. Sie integriert alte chinesische philosophische Gedanken wie die Theorie von Yin und Yang sowie die fünf Elemente, bietet also eine einzigartige kulturelle Erfahrung. Jeder Schicksalsplan ist einzigartig und bietet eine personalisierte und tiefgehende Analyse.",
+      "Wenn Sie eine nicht arbeitsbezogene Website besuchen, erkennt die Erweiterung dies automatisch und startet die Schneckenanimation. Die Schnecke verfolgt Sie langsam vom unteren Rand der Seite und deckt den Seiteninhalt im Laufe der Zeit schrittweise ab. Sie können die Schnecke stoppen, indem Sie zu einer Arbeitswebsite zurückkehren oder eine benutzerdefinierte Liste von Arbeitswebsites einrichten. Dadurch wird sie effizienter.",
   },
   {
-    title: "Ist Zi Wei Dou Shu genau?",
+    title: "Wie richte ich Arbeitswebsites ein?",
     content:
-      "Zi Wei Dou Shu ist eine traditionelle Schicksalskunst, deren Genauigkeit von verschiedenen Faktoren abhängt, einschließlich der Richtigkeit der Geburtszeit und des professionellen Niveaus des Interpreten.",
+      "Klicken Sie auf das Erweiterungssymbol, um die Einstellungsseite zu öffnen, und fügen Sie Ihre häufig verwendeten arbeitsbezogenen Websites zur Liste 'Arbeitswebsites' hinzu. Sie können jederzeit Websites hinzufügen oder entfernen, und die Erweiterung speichert Ihre Einstellungen automatisch. Das ist bequem und einfach.",
   },
   {
-    title: "Wie lange dauert es, einen Schicksalsplan zu erstellen?",
+    title: "Kann ich die Schneckengeschwindigkeit anpassen?",
     content:
-      "Unser Service ist darauf ausgelegt, schnell zu reagieren, so dass Sie fast sofort die Ergebnisse Ihrer Schicksalsanalyse erhalten können.",
+      "Ja, Sie können den Schnecken-Timer auf der Einstellungsseite anpassen. Wir bieten einen Einstellbereich von 1 bis 120 Minuten, sodass Sie die geeignete Einstellung entsprechend Ihren Arbeitsgewohnheiten wählen können. Diese Funktion macht es effektiver.",
   },
   {
-    title: "Kann das Ergebnis des Schicksalsplans geteilt werden?",
+    title: "Wird die Erweiterung die Computerleistung beeinträchtigen?",
     content:
-      "Natürlich, Sie können Ihre Schicksalsanalyse-Ergebnisse in sozialen Medien teilen und mit Freunden darüber diskutieren.",
+      "Die ManTunTun🐌 Snail Timer-Erweiterung ist so optimiert, dass sie minimale Ressourcen verbraucht und die normale Funktion Ihres Computers nicht beeinträchtigt. Wenn Sie Leistungsprobleme feststellen, können Sie sich gerne an uns wenden. Es ist sehr praktisch und einfach zu bedienen.",
   },
 ];
 
 export const FAQS_FR = [
   {
-    title: "Qu'est-ce que le Zi Wei Dou Shu ?",
+    title: "Qu'est-ce que l'extension ManTunTun🐌 Snail Timer ?",
     content:
-      "Le Zi Wei Dou Shu, une étude de la destinologie chinoise ancienne et profonde, est non seulement une forme de divertissement, mais aussi un outil pour comprendre en profondeur soi-même et les tendances futures. Nous nous engageons à présenter le charme du Zi Wei Dou Shu de la manière la plus simple et accessible à tout le monde.",
+      "ManTunTun🐌 Snail Timer est une extension de navigateur Chrome conçue pour améliorer l'efficacité au travail. Lorsque vous visitez des sites Web non liés au travail, un mignon escargot commencera à vous poursuivre, couvrant progressivement toute la page jusqu'à ce que vous reveniez au travail. Cela vous aide à développer de bonnes habitudes Internet de manière amusante. Elle est prête à l'emploi et très légère.",
   },
   {
-    title: "Pourquoi choisir le Zi Wei Dou Shu ?",
+    title: "Comment fonctionne l'extension ManTunTun🐌 Snail Timer ?",
     content:
-      "Le Zi Wei Dou Shu analyse non seulement la personnalité individuelle, mais couvre également de nombreux domaines tels que la santé, la richesse, la carrière et les relations interpersonnelles. Le Zi Wei Dou Shu intègre des pensées philosophiques anciennes chinoises, telles que la théorie du Yin et du Yang et des cinq éléments, offrant une expérience culturelle unique. Le schéma de destin de chaque personne est unique, et le Zi Wei Dou Shu peut fournir une analyse plus personnalisée et approfondie.",
+      "Lorsque vous visitez un site Web non lié au travail, l'extension détecte automatiquement et lance l'animation de l'escargot. L'escargot vous poursuit lentement depuis le bas de la page, couvrant progressivement le contenu de la page au fil du temps. Vous pouvez arrêter l'escargot en revenant à un site Web de travail ou en définissant une liste personnalisée de sites Web de travail. Cela la rend plus efficace.",
   },
   {
-    title: "Le Zi Wei Dou Shu est-il précis ?",
+    title: "Comment configurer les sites Web de travail ?",
     content:
-      "Le Zi Wei Dou Shu est une étude de la destinologie traditionnelle, et sa précision dépend de divers facteurs, y compris l'exactitude de l'heure de naissance et le niveau professionnel de l'interprète.",
+      "Cliquez sur l'icône de l'extension pour ouvrir la page des paramètres et ajoutez vos sites Web de travail fréquemment utilisés à la liste « Sites Web de travail ». Vous pouvez ajouter ou supprimer des sites Web à tout moment, et l'extension enregistrera automatiquement vos paramètres. C'est pratique et facile.",
   },
   {
-    title: "Combien de temps faut-il pour générer un schéma de destin ?",
+    title: "Puis-je régler la vitesse de l'escargot ?",
     content:
-      "Notre service est conçu pour être rapide et réactif, vous pouvez obtenir presque instantanément les résultats de l'analyse du schéma de destin.",
+      "Oui, vous pouvez régler le minuteur de l'escargot sur la page des paramètres. Nous offrons une plage de réglage de 1 à 120 minutes, ce qui vous permet de choisir le réglage approprié en fonction de vos habitudes de travail. Cette fonctionnalité la rend plus efficace.",
   },
   {
-    title: "Les résultats du schéma de destin peuvent-ils être partagés ?",
+    title: "L'extension affectera-t-elle les performances de l'ordinateur ?",
     content:
-      "Absolument, vous pouvez partager les résultats de votre schéma de destin sur les médias sociaux et discuter avec vos amis.",
+      "L'extension ManTunTun🐌 Snail Timer est optimisée pour utiliser un minimum de ressources et n'affectera pas le fonctionnement normal de votre ordinateur. Si vous rencontrez des problèmes de performances, n'hésitez pas à nous contacter. Elle est très pratique et simple à utiliser.",
   },
 ];
 
 export const FAQS_KO = [
   {
-    title: "紫微斗数란 무엇입니까?",
+    title: "ManTunTun🐌 Snail Timer 확장 프로그램이란 무엇입니까?",
     content:
-      "紫微斗数는 중국의 오랜 역사를 가진 인명학입니다. 이것은 단순한 오락 방법이 아니라 자신과 미래의 추세를 깊이 이해하는 도구입니다. 우리는 가장 간단하고 이해하기 쉬운 방식으로 모든 사람이 紫微斗数의 매력을 경험할 수 있도록 최선을 다하고 있습니다.",
+      "ManTunTun🐌 Snail Timer는 업무 효율성을 향상시키기 위해 설계된 Chrome 브라우저 확장 프로그램입니다. 업무와 관련 없는 웹사이트를 방문하면 귀여운 달팽이가 당신을 쫓기 시작하여 업무에 복귀할 때까지 점차적으로 페이지 전체를 덮습니다. 재미있는 방식으로 좋은 인터넷 습관을 개발하는 데 도움이 됩니다. 즉시 사용할 수 있으며 매우 가볍습니다.",
   },
   {
-    title: "왜 紫微斗数를 선택할까요?",
+    title: "ManTunTun🐌 Snail Timer 확장 프로그램은 어떻게 작동합니까?",
     content:
-      "紫微斗数는 개인의 성격 분석 뿐만 아니라 건강, 재산, 직업, 인간 관계 등 여러 측면을 포함합니다. 이는 중국 고대의 철학적 사상인 양과 오행 이론을 융합하여 독특한 문화 경험을 제공합니다. 모든 사람의 운명 차트는 고유하며, 紫微斗数는 보다 개인화되고 심도 있는 분석을 제공할 수 있습니다.",
+      "업무와 관련 없는 웹사이트를 방문하면 확장 프로그램이 자동으로 감지하여 달팽이 애니메이션을 시작합니다. 달팽이가 페이지 하단에서 천천히 쫓아와 시간이 지남에 따라 페이지 콘텐츠를 점차 덮습니다. 업무 웹사이트로 돌아가거나 사용자 지정 업무 웹사이트 목록을 설정하여 달팽이를 멈출 수 있습니다. 이렇게 하면 더 효율적입니다.",
   },
   {
-    title: "紫微斗数는 정확합니까?",
+    title: "업무 웹사이트를 설정하는 방법은 무엇입니까?",
     content:
-      "紫微斗数는 전통적인 인명학이며, 정확성은 출생 시간의 정확성과 해석자의 전문성 수준 등 여러 요소에 달려 있습니다.",
+      "확장 프로그램 아이콘을 클릭하여 설정 페이지를 열고 자주 사용하는 업무 관련 웹사이트를 '업무 웹사이트' 목록에 추가하세요. 언제든지 웹사이트를 추가하거나 제거할 수 있으며 확장 프로그램은 자동으로 설정을 저장합니다. 편리하고 쉽습니다.",
   },
   {
-    title: "운명 차트 생성에 얼마나 걸립니까?",
+    title: "달팽이 속도를 조정할 수 있습니까?",
     content:
-      "우리 서비스는 빠른 응답을 위해 설계되었으며, 거의 즉시 운명 차트 분석 결과를 얻을 수 있습니다.",
+      "예, 설정 페이지에서 달팽이 타이머를 조정할 수 있습니다. 1~120분의 조정 범위를 제공하므로 업무 습관에 따라 적절한 설정을 선택할 수 있습니다. 이 기능을 통해 더욱 효과적입니다.",
   },
   {
-    title: "운명 차트 결과를 공유할 수 있습니까?",
+    title: "확장 프로그램이 컴퓨터 성능에 영향을 미칩니까?",
     content:
-      "물론입니다, 소셜 미디어에서 운명 차트 결과를 공유하고 친구들과 함께 논의할 수 있습니다.",
+      "ManTunTun🐌 Snail Timer 확장 프로그램은 최소한의 리소스를 사용하도록 최적화되어 있으며 컴퓨터의 정상적인 작동에 영향을 미치지 않습니다. 성능 문제가 발생하면 언제든지 문의해 주세요. 매우 실용적이고 사용하기 쉽습니다.",
   },
 ];
 
 export const FAQS_NL = [
   {
-    title: "Wat is Zi Wei Dou Shu?",
+    title: "Wat is de ManTunTun🐌 Snail Timer-extensie?",
     content:
-      "Zi Wei Dou Shu, een Chinese astrologie met een lange traditie, is niet alleen een manier van vermaak, maar ook een instrument om jezelf en toekomstige trends dieper te begrijpen. We zijn toegewijd aan het presenteren van Zi Wei Dou Shu op een manier die zo eenvoudig en begrijpelijk mogelijk is, zodat iedereen de charme ervan kan ervaren.",
+      "De ManTunTun🐌 Snail Timer is een Chrome-browserextensie die is ontworpen om de werkproductiviteit te verbeteren. Wanneer je niet-werkgerelateerde websites bezoekt, begint een schattige slak je te achtervolgen en bedekt geleidelijk de hele pagina totdat je terugkeert naar het werk. Het helpt je op een leuke manier goede internetgewoonten te ontwikkelen. Het is direct klaar voor gebruik en zeer licht van gewicht.",
   },
   {
-    title: "Waarom kiezen voor Zi Wei Dou Shu?",
+    title: "Hoe werkt de ManTunTun🐌 Snail Timer-extensie?",
     content:
-      "Zi Wei Dou Shu analyseert niet alleen de persoonlijke aard, maar omvat ook aspecten zoals gezondheid, rijkdom, carrière en menselijke relaties. Het combineert de filosofische ideeën van het oude China, zoals de theorie van Yin en Yang en de vijf elementen, en biedt een unieke culturele ervaring. Elke individuele levenskaart is uniek, en Zi Wei Dou Shu kan een meer gepersonaliseerde en diepgaande analyse bieden.",
+      "Wanneer je een niet-werkwebsite bezoekt, detecteert de extensie dit automatisch en start de slakanimatie. De slak achtervolgt je langzaam vanaf de onderkant van de pagina en bedekt de pagina-inhoud geleidelijk in de loop van de tijd. Je kunt de slak stoppen door terug te keren naar een werkwebsite of door een aangepaste lijst met werkwebsites in te stellen. Dit maakt het efficiënter.",
   },
   {
-    title: "Is Zi Wei Dou Shu nauwkeurig?",
+    title: "Hoe stel ik werkwebsites in?",
     content:
-      "Zi Wei Dou Shu is een traditionele astrologie, waarvan de nauwkeurigheid afhangt van verschillende factoren, waaronder de nauwkeurigheid van de geboortedatum en het professionele niveau van de interpreter.",
+      "Klik op het extensiepictogram om de instellingenpagina te openen en voeg je vaak gebruikte werkgerelateerde websites toe aan de lijst 'Werkwebsites'. Je kunt op elk moment websites toevoegen of verwijderen en de extensie slaat je instellingen automatisch op. Het is handig en gemakkelijk.",
   },
   {
-    title: "Hoe lang duurt het om een levenskaart te genereren?",
+    title: "Kan ik de slaksnelheid aanpassen?",
     content:
-      "Onze service is ontworpen voor snelle respons, u kunt bijna onmiddellijk de resultaten van de levenskaartanalyse krijgen.",
+      "Ja, je kunt de slaktimer aanpassen op de instellingenpagina. We bieden een aanpassingsbereik van 1 tot 120 minuten, zodat je de juiste instelling kunt kiezen op basis van je werkgewoonten. Deze functie maakt het effectiever.",
   },
   {
-    title: "Kan het resultaat van de levenskaart worden gedeeld?",
+    title: "Heeft de extensie invloed op de computerprestaties?",
     content:
-      "Zeker, u kunt het resultaat van uw levenskaart delen op sociale media en met vrienden bespreken.",
+      "De ManTunTun🐌 Snail Timer-extensie is geoptimaliseerd om minimale resources te gebruiken en zal de normale werking van je computer niet beïnvloeden. Als je prestatieproblemen ondervindt, neem dan gerust contact met ons op. Het is zeer praktisch en eenvoudig in gebruik.",
   },
 ];
 
 export const FAQS_PL = [
   {
-    title: "Co to jest Zi Wei Dou Shu?",
+    title: "Co to jest rozszerzenie ManTunTun🐌 Snail Timer?",
     content:
-      "Zi Wei Dou Shu to długa tradycja chińskich sztuk przewidywania losów, która jest nie tylko formą rozrywki, ale także narzędziem do głębokiej analizy siebie i przyszłych trendów. Staramy się przedstawić tę sztukę w sposób jak najprostszy i zrozumiały, aby każdy mógł odczuć jej urok.",
+      "ManTunTun🐌 Snail Timer to rozszerzenie przeglądarki Chrome, które ma na celu poprawę efektywności pracy. Gdy odwiedzasz witryny internetowe niezwiązane z pracą, uroczy ślimak zacznie cię gonić, stopniowo zakrywając całą stronę, aż wrócisz do pracy. Pomaga w zabawny sposób wyrobić dobre nawyki internetowe. Jest gotowy do użycia i bardzo lekki.",
   },
   {
-    title: "Dlaczego wybrać Zi Wei Dou Shu?",
+    title: "Jak działa rozszerzenie ManTunTun🐌 Snail Timer?",
     content:
-      "Zi Wei Dou Shu analizuje nie tylko indywidualny charakter, ale również obejmuje zdrowie, bogactwo, karierę i relacje z ludźmi. Ta sztuka łączy się z filozoficznymi koncepcjami starożytnych Chińczyków, takimi jak teoria yin i yang, pięć elementów, oferując unikalną doświadczenie kulturowe. Każdy los grafu jest wyjątkowy, a Zi Wei Dou Shu umożliwia bardziej indywidualne i głębokie analizy.",
+      "Gdy odwiedzasz witrynę internetową niezwiązaną z pracą, rozszerzenie automatycznie to wykrywa i uruchamia animację ślimaka. Ślimak powoli cię goni od dołu strony, stopniowo zakrywając treść strony z upływem czasu. Możesz zatrzymać ślimaka, wracając do witryny internetowej związanej z pracą lub ustawiając niestandardową listę witryn internetowych związanych z pracą. Dzięki temu jest bardziej wydajny.",
   },
   {
-    title: "Czy Zi Wei Dou Shu jest dokładna?",
+    title: "Jak skonfigurować witryny internetowe związane z pracą?",
     content:
-      "Zi Wei Dou Shu to tradycyjna sztuka przewidywania losów, a jej dokładność zależy od wielu czynników, w tym dokładności czasu urodzenia i poziomu wiedzy tłumacza.",
+      "Kliknij ikonę rozszerzenia, aby otworzyć stronę ustawień, i dodaj często używane witryny internetowe związane z pracą do listy „Witryny internetowe związane z pracą”. Możesz dodawać lub usuwać witryny internetowe w dowolnym momencie, a rozszerzenie automatycznie zapisze Twoje ustawienia. Jest to wygodne i łatwe.",
   },
   {
-    title: "Ile czasu potrzeba na wygenerowanie grafu losu?",
+    title: "Czy mogę dostosować prędkość ślimaka?",
     content:
-      "Nasze usługi są zaprojektowane z myślą o szybkim reagowaniu, możesz natychmiast otrzymać wyniki analizy grafu losu.",
+      "Tak, możesz dostosować timer ślimaka na stronie ustawień. Oferujemy zakres regulacji od 1 do 120 minut, co pozwala wybrać odpowiednie ustawienie zgodnie z Twoimi nawykami pracy. Ta funkcja sprawia, że jest bardziej skuteczny.",
   },
   {
-    title: "Czy wyniki grafu losu można dzielić?",
+    title: "Czy rozszerzenie wpłynie na wydajność komputera?",
     content:
-      "Z pewnością, możesz dzielić wyniki swojego grafu losu na portalach społecznościowych, dyskutując z przyjaciółmi.",
+      "Rozszerzenie ManTunTun🐌 Snail Timer jest zoptymalizowane pod kątem minimalnego zużycia zasobów i nie wpłynie na normalne działanie komputera. Jeśli wystąpią jakiekolwiek problemy z wydajnością, skontaktuj się z nami. Jest bardzo praktyczny i prosty w obsłudze.",
   },
 ];
 
 export const FAQS_PT = [
   {
-    title: "O que é Zi Wei Dou Shu?",
+    title: "O que é a extensão ManTunTun🐌 Snail Timer?",
     content:
-      "Zi Wei Dou Shu, uma teoria chinesa de destino de longa data, não é apenas uma forma de entretenimento, mas também uma ferramenta para compreender profundamente o próprio eu e as tendências futuras. Nos dedicamos a tornar a experiência de Zi Wei Dou Shu atraente para todos de uma maneira simples e fácil de entender.",
+      "O ManTunTun🐌 Snail Timer é uma extensão do navegador Chrome projetada para melhorar a eficiência no trabalho. Quando você visita sites não relacionados ao trabalho, um caracol fofo começará a persegui-lo, cobrindo gradualmente toda a página até que você volte ao trabalho. Ajuda você a desenvolver bons hábitos de internet de uma forma divertida. Está pronto para usar e é muito leve.",
   },
   {
-    title: "Por que escolher Zi Wei Dou Shu?",
+    title: "Como funciona a extensão ManTunTun🐌 Snail Timer?",
     content:
-      "Zi Wei Dou Shu não só analisa o caráter individual, mas também abrange vários aspectos, como saúde, riqueza, carreira e relacionamentos interpessoais. Zi Wei Dou Shu integra pensamentos filosóficos antigos chineses, como a teoria do yin e yang e dos cinco elementos, oferecendo uma experiência cultural única. Cada gráfico de destino é único, e Zi Wei Dou Shu pode fornecer uma análise mais personalizada e aprofundada.",
+      "Quando você visita um site não relacionado ao trabalho, a extensão detecta automaticamente e inicia a animação do caracol. O caracol o persegue lentamente da parte inferior da página, cobrindo gradualmente o conteúdo da página ao longo do tempo. Você pode parar o caracol voltando para um site de trabalho ou configurando uma lista personalizada de sites de trabalho. Isso o torna mais eficiente.",
   },
   {
-    title: "Zi Wei Dou Shu é preciso?",
+    title: "Como configuro sites de trabalho?",
     content:
-      "Zi Wei Dou Shu é uma teoria de destino tradicional, e sua precisão depende de vários fatores, incluindo a precisão do horário de nascimento e o nível de profissionalismo do interprete.",
+      "Clique no ícone da extensão para abrir a página de configurações e adicione seus sites de trabalho usados ​​com frequência à lista 'Sites de Trabalho'. Você pode adicionar ou remover sites a qualquer momento e a extensão salvará automaticamente suas configurações. É conveniente e fácil.",
   },
   {
-    title: "Quanto tempo leva para gerar o gráfico de destino?",
+    title: "Posso ajustar a velocidade do caracol?",
     content:
-      "Nosso serviço é projetado para resposta rápida, e você pode obter quase imediatamente os resultados da análise do gráfico de destino.",
+      "Sim, você pode ajustar o cronômetro do caracol na página de configurações. Oferecemos uma faixa de ajuste de 1 a 120 minutos, permitindo que você escolha a configuração apropriada de acordo com seus hábitos de trabalho. Esse recurso o torna mais eficaz.",
   },
   {
-    title: "Os resultados do gráfico de destino podem ser compartilhados?",
+    title: "A extensão afetará o desempenho do computador?",
     content:
-      "Claro, você pode compartilhar seus resultados do gráfico de destino nas redes sociais e discutir com seus amigos.",
+      "A extensão ManTunTun🐌 Snail Timer é otimizada para usar recursos mínimos e não afetará o funcionamento normal do seu computador. Se você tiver algum problema de desempenho, entre em contato conosco. É muito prático e simples de usar.",
   },
 ];
 
 export const FAQS_VI = [
   {
-    title: "Zi Wei Dou Shu là gì?",
+    title: "Tiện ích mở rộng ManTunTun🐌 Snail Timer là gì?",
     content:
-      "Zi Wei Dou Shu, một lý thuyết số phận truyền thống của Trung Quốc có nguồn gốc xa xưa, không chỉ là một hình thức giải trí, mà còn là một công cụ để hiểu sâu về bản thân và xu hướng tương lai. Chúng tôi cam kết mang đến sự hấp dẫn của Zi Wei Dou Shu bằng những cách đơn giản và dễ hiểu nhất cho mọi người.",
+      "ManTunTun🐌 Snail Timer là một tiện ích mở rộng của trình duyệt Chrome được thiết kế để cải thiện hiệu quả công việc. Khi bạn truy cập các trang web không liên quan đến công việc, một chú ốc sên dễ thương sẽ bắt đầu đuổi theo bạn, dần dần bao phủ toàn bộ trang cho đến khi bạn quay lại làm việc. Nó giúp bạn phát triển thói quen sử dụng internet tốt một cách thú vị. Nó sẵn sàng để sử dụng và rất nhẹ.",
   },
   {
-    title: "Tại sao nên chọn Zi Wei Dou Shu?",
+    title: "Tiện ích mở rộng ManTunTun🐌 Snail Timer hoạt động như thế nào?",
     content:
-      "Zi Wei Dou Shu không chỉ phân tích tính cách cá nhân, mà còn bao gồm nhiều khía cạnh khác như sức khỏe, tài lộc, sự nghiệp và quan hệ xã hội. Zi Wei Dou Shu kết hợp các tư tưởng triết học cổ đại của Trung Quốc, như lý thuyết ngũ hành và yin-yang, cung cấp một trải nghiệm văn hóa độc đáo. Bản đồ số phận của mỗi người đều là duy nhất, và Zi Wei Dou Shu có thể cung cấp một phân tích cá nhân và sâu sắc hơn.",
+      "Khi bạn truy cập một trang web không liên quan đến công việc, tiện ích mở rộng sẽ tự động phát hiện và bắt đầu hoạt ảnh ốc sên. Ốc sên từ từ đuổi theo bạn từ cuối trang, dần dần bao phủ nội dung trang theo thời gian. Bạn có thể dừng ốc sên bằng cách quay lại trang web làm việc hoặc thiết lập danh sách tùy chỉnh các trang web làm việc. Điều này làm cho nó hiệu quả hơn.",
   },
   {
-    title: "Zi Wei Dou Shu chính xác không?",
+    title: "Làm cách nào để thiết lập các trang web làm việc?",
     content:
-      "Zi Wei Dou Shu là một lý thuyết số phận truyền thống, và tính chính xác của nó phụ thuộc vào nhiều yếu tố, bao gồm sự chính xác của thời gian sinh và trình độ chuyên nghiệp của người phân tích.",
+      "Nhấp vào biểu tượng tiện ích mở rộng để mở trang cài đặt và thêm các trang web liên quan đến công việc mà bạn thường xuyên sử dụng vào danh sách 'Trang web làm việc'. Bạn có thể thêm hoặc xóa các trang web bất cứ lúc nào và tiện ích mở rộng sẽ tự động lưu cài đặt của bạn. Nó rất tiện lợi và dễ dàng.",
   },
   {
-    title: "Thời gian tạo bản đồ số phận cần bao lâu?",
+    title: "Tôi có thể điều chỉnh tốc độ của ốc sên không?",
     content:
-      "Dịch vụ của chúng tôi được thiết kế để đáp ứng nhanh chóng, bạn có thể nhận được kết quả phân tích bản đồ số phận trong thời gian ngắn nhất.",
+      "Có, bạn có thể điều chỉnh bộ hẹn giờ ốc sên trên trang cài đặt. Chúng tôi cung cấp phạm vi điều chỉnh từ 1 đến 120 phút, cho phép bạn chọn cài đặt phù hợp theo thói quen làm việc của mình. Tính năng này làm cho nó hiệu quả hơn.",
   },
   {
-    title: "Có thể chia sẻ kết quả bản đồ số phận không?",
+    title: "Tiện ích mở rộng có ảnh hưởng đến hiệu suất máy tính không?",
     content:
-      "Tất nhiên, bạn có thể chia sẻ kết quả bản đồ số phận của mình trên mạng xã hội, thảo luận cùng bạn bè.",
+      "Tiện ích mở rộng ManTunTun🐌 Snail Timer được tối ưu hóa để sử dụng tối thiểu tài nguyên và sẽ không ảnh hưởng đến hoạt động bình thường của máy tính của bạn. Nếu bạn gặp bất kỳ vấn đề nào về hiệu suất, vui lòng liên hệ với chúng tôi. Nó rất thiết thực và dễ sử dụng.",
   },
 ];
+
+export const FAQS_SE = [
+  {
+    title: "Vad är ManTunTun🐌 Snail Timer-tillägget?",
+    content:
+      "ManTunTun🐌 Snail Timer är ett webbläsartillägg för Chrome som är utformat för att förbättra arbetseffektiviteten. När du besöker webbplatser som inte är arbetsrelaterade börjar en söt snigel jaga dig och täcker gradvis hela sidan tills du återvänder till arbetet. Det hjälper dig att utveckla goda internetvanor på ett roligt sätt. Det är redo att användas och är mycket lätt.",
+  },
+  {
+    title: "Hur fungerar ManTunTun🐌 Snail Timer-tillägget?",
+    content:
+      "När du besöker en webbplats som inte är arbetsrelaterad, upptäcker tillägget det automatiskt och startar snigelanimationen. Snigeln jagar dig långsamt från botten av sidan och täcker gradvis sidans innehåll med tiden. Du kan stoppa snigeln genom att återvända till en arbetswebbplats eller ställa in en anpassad lista med arbetswebbplatser. Detta gör det mer effektivt.",
+  },
+  {
+    title: "Hur ställer jag in arbetswebbplatser?",
+    content:
+      "Klicka på tilläggsikonen för att öppna inställningssidan och lägg till dina ofta använda arbetsrelaterade webbplatser i listan 'Arbetswebbplatser'. Du kan lägga till eller ta bort webbplatser när som helst, och tillägget sparar automatiskt dina inställningar. Det är bekvämt och enkelt.",
+  },
+  {
+    title: "Kan jag justera snigelns hastighet?",
+    content:
+      "Ja, du kan justera snigeltimern på inställningssidan. Vi erbjuder ett justeringsintervall på 1-120 minuter, vilket gör att du kan välja lämplig inställning enligt dina arbetsvanor. Den här funktionen gör det mer effektivt.",
+  },
+  {
+    title: "Kommer tillägget att påverka datorns prestanda?",
+    content:
+      "ManTunTun🐌 Snail Timer-tillägget är optimerat för att använda minimala resurser och kommer inte att påverka datorns normala funktion. Om du upplever några prestandaproblem är du välkommen att kontakta oss. Det är mycket praktiskt och enkelt att använda.",
+  },
+];
+
+export const FAQS_PH = [
+  {
+    title: "Ano ang ManTunTun🐌 Snail Timer extension?",
+    content:
+      "Ang ManTunTun🐌 Snail Timer ay isang extension ng Chrome browser na idinisenyo upang mapabuti ang kahusayan sa trabaho. Kapag bumisita ka sa mga website na hindi nauugnay sa trabaho, sisimulang habulin ka ng isang cute na snail, na unti-unting tatakpan ang buong page hanggang sa bumalik ka sa trabaho. Tumutulong ito sa iyo na magkaroon ng magandang gawi sa internet sa isang masayang paraan. Handa na itong gamitin at napakagaan.",
+  },
+  {
+    title: "Paano gumagana ang ManTunTun🐌 Snail Timer extension?",
+    content:
+      "Kapag bumisita ka sa isang website na hindi nauugnay sa trabaho, awtomatikong makikita ng extension at sisimulan ang animation ng snail. Dahan-dahang hahabulin ka ng snail mula sa ibaba ng page, na unti-unting tatakpan ang content ng page sa paglipas ng panahon. Maaari mong ihinto ang snail sa pamamagitan ng pagbabalik sa isang website ng trabaho o pagtatakda ng isang custom na listahan ng mga website ng trabaho. Ginagawa nitong mas mahusay.",
+  },
+  {
+    title: "Paano ko ise-set up ang mga website ng trabaho?",
+    content:
+      "I-click ang icon ng extension para buksan ang page ng mga setting, at idagdag ang iyong mga madalas gamitin na mga website na nauugnay sa trabaho sa listahan ng 'Mga Website ng Trabaho'. Maaari kang magdagdag o mag-alis ng mga website anumang oras, at awtomatikong ise-save ng extension ang iyong mga setting. Ito ay maginhawa at madali.",
+  },
+  {
+    title: "Maaari ko bang i-adjust ang bilis ng snail?",
+    content:
+      "Oo, maaari mong i-adjust ang snail timer sa page ng mga setting. Nag-aalok kami ng adjustment range na 1-120 minuto, na nagbibigay-daan sa iyo na piliin ang naaangkop na setting ayon sa iyong mga gawi sa pagtatrabaho. Ginagawa itong mas epektibo ng feature na ito.",
+  },
+  {
+    title: "Makaaapekto ba ang extension sa performance ng computer?",
+    content:
+      "Ang ManTunTun🐌 Snail Timer extension ay na-optimize para gumamit ng kaunting resources at hindi makakaapekto sa normal na paggana ng iyong computer. Kung makakaranas ka ng anumang isyu sa performance, huwag mag-atubiling makipag-ugnayan sa amin. Napakapraktikal at simpleng gamitin.",
+  },
+];
+
 interface FAQSCollection {
   [key: `FAQS_${string}`]: {
     title: string;
@@ -406,4 +467,6 @@ export const ALL_FAQS: FAQSCollection = {
   FAQS_PL,
   FAQS_PT,
   FAQS_VI,
+  FAQS_SE,
+  FAQS_PH,
 };

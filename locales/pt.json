@@ -1,87 +1,58 @@
 {
-  "Fate": {
-    "h1": "Gráfico da Vitória do Zi Wei Dou Shu",
-    "description": "Insira as informações e clique no botão Gerar para obter o seu gráfico de destino exclusivo do Zi Wei Dou Shu",
-    "form": {
-      "birthday": "Aniversário",
-      "birthTime": "Hora do Nascimento",
-      "gender": "Gênero",
-      "create": "Criar",
-      "download": "Baixar"
-    }
-  },
   "Header": {
-    "title": "Zi Wei Dou Shu"
+    "title": "Snail Timer"
   },
   "Metadata": {
     "home": {
-      "title": "Zi Wei Dou Shu | Gerar gráfico de destino do Zi Wei Dou Shu de graça - Explorar o destino e as tendências futuras",
-      "description": "O método de divinação mais popular de 2024: Zi Wei Dou Shu 2024, Astrologia 2024, Tarot 2024, Palmistry 2024. Aqui está o Zi Wei Dou Shu 2024, onde você pode gerar um gráfico de destino do Zi Wei Dou Shu de graça, construir um sistema complexo de gráficos de destino para revelar o caráter individual, o destino e as tendências futuras.",
-      "keywords": [
-        "Zi Wei Dou Shu 2024",
-        "Geração de gráfico de destino de graça",
-        "Divinação chinesa",
-        "Filosofia chinesa antiga"
-      ]
-    },
-    "fate": {
-      "title": "Gráfico de Destino do Zi Wei Dou Shu | Astrologia Chinesa 2024 | Gerar gráfico de destino do Zi Wei Dou Shu de graça",
-      "description": "O método de divinação mais popular de 2024: Zi Wei Dou Shu 2024, Astrologia 2024, Tarot 2024, Palmistry 2024. Aqui está o Zi Wei Dou Shu 2024, onde você pode gerar um gráfico de destino do Zi Wei Dou Shu de graça, construir um sistema complexo de gráficos de destino para revelar o caráter individual, o destino e as tendências futuras.",
-      "keywords": [
-        "Gráfico de destino do Zi Wei Dou Shu",
-        "Zi Wei Dou Shu 2024",
-        "Geração de gráfico de destino de graça",
-        "Zi Wei Dou Shu Online",
-        "Divinação do Zi Wei Dou Shu",
-        "Zi Wei Dou Shu Grátis",
-        "Ferramenta do Zi Wei Dou Shu"
-      ]
+      "title": "Snail Timer: Aumente o Foco com esta Extensão do Google Chrome Leve e Automatizada",
+      "description": "A ferramenta de eficiência mais popular em 2025: Snail Timer 2025, gestão de tempo 2025, extensão do Chrome 2025, ferramenta de produtividade 2025. O Snail Timer 2025 é uma extensão gratuita do Chrome que o ajuda a melhorar a eficiência no trabalho e a desenvolver bons hábitos online. É muito Conveniente e Pronto para usar.",
+      "keywords": "Extensão Snail Timer, Snail Timer 2025, ferramenta de aprimoramento de foco, extensão do Chrome online, ferramenta de gestão de tempo, Snail Timer grátis, ferramenta de eficiência, Ready to use, Lightweight, Automated"
     }
   },
   "Hero": {
-    "title1": "Uma astrologia mais complexa que a contagem dos oito caracteres chineses, explorando o seu destino",
-    "title2": "Zi Wei Dou Shu",
-    "title3": "Gerar gráfico de destino do Zi Wei Dou Shu de graça",
-    "description": "Desde os tempos antigos, a humanidade vem explorando os mistérios do universo, tentando encontrar o sentido da vida e as direções futuras nele. Seja por meio da astrologia, tarot, numerologia ou palmistria, cada método de divinação oferece uma perspectiva única, ajudando-nos a compreender nós mesmos e o mundo ao nosso redor. Gerar um gráfico de destino do Zi Wei Dou Shu de graça, conhecer a trajetória da sua vida, dominar as tendências futuras, gere imediatamente seu gráfico de destino do Zi Wei Dou Shu 2024 de graça."
+    "title1": "ManTunTun: Assistente de Aprimoramento de Foco",
+    "title2": "Snail Timer",
+    "title3": "Não deixe este caracol fofo alcançar você",
+    "description": "Quando você visita sites não relacionados ao trabalho, um caracol fofo começará a persegui-lo, cobrindo gradualmente toda a página com o passar do tempo até que você volte ao trabalho. Suporta listas personalizadas de sites de trabalho e configurações de contagem regressiva."
   },
   "SocialProof": {
     "maker": ""
   },
   "Feature": {
-    "title": "Função do Gráfico de Destino"
+    "title": "Funcionalidades"
   },
   "Pricing": {
     "title": "Preços",
     "title2": "",
-    "description": "No momento, apenas oferecemos o serviço de geração de gráfico de destino do Zi Wei Dou Shu de graça",
+    "description": "Totalmente gratuito para usar, baixe e experimente agora",
     "doYouLike": "",
     "follow": ""
   },
   "Testimonials": {
-    "title": "",
-    "description1": "",
-    "description2": "",
-    "description3": ""
+    "title": "Avaliações de Usuários",
+    "description1": "Se você usar o ManTunTun - Snail Timer e recomendá-lo no Twitter,",
+    "description2": "por favor, me avise",
+    "description3": "Exibirei seus tweets e recomendações aqui."
   },
   "FAQ": {
-    "title": "Perguntas Frequentes",
-    "description": "Aqui estão algumas das perguntas mais comuns."
+    "title": "FAQ",
+    "description": "Aqui estão as perguntas mais frequentes dos usuários"
   },
   "CTA": {
-    "title": "Geração de seu Gráfico de Destino Exclusivo do Zi Wei Dou Shu de Graça",
-    "description1": "Geração",
-    "description2": "Gráfico de Destino Exclusivo do Zi Wei Dou Shu",
+    "title": "Obtenha a Extensão Snail Timer Gratuitamente",
+    "description1": "Instale",
+    "description2": "a extensão",
     "description3": "",
-    "description4": "!",
+    "description4": "agora!",
     "description5": "",
     "description6": ""
   },
   "CTAButton": {
-    "title": "Gerar Gráfico de Destino do Zi Wei Dou Shu",
-    "title_2": "Analisar o Destino"
+    "title": "Instalar Extensão",
+    "title_2": "Começar a Usar"
   },
   "NotFound": {
     "title": "404 Não Encontrado",
-    "goHome": "ir para casa"
+    "goHome": "Ir para a Página Inicial"
   }
 }

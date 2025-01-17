@@ -1,83 +1,58 @@
 {
-  "Fate": {
-    "h1": "Calculadora de Zi Wei Dou Shu",
-    "description": "Enter information and click the `Generate` button to get your exclusive ZiWei chart",
-    "form": {
-      "birthday": "Birthday",
-      "birthTime": "Birth Time",
-      "gender": "Gender",
-      "create": "Generate",
-      "download": "Download"
+  "Header": {
+    "title": "Snail Timer"
+  },
+  "Metadata": {
+    "home": {
+      "title": "Snail Timer: Boost Focus with This Lightweight & Automated Google Chrome Extension",
+      "description": "The most popular efficiency tool in 2025: Snail Timer 2025, time management 2025, Chrome extension 2025, productivity tool 2025. Snail Timer 2025 is a free Chrome extension that helps you improve work efficiency and develop good online habits. It's very Convenient and Ready to use.",
+      "keywords": "Snail Timer extension, Snail Timer 2025, focus enhancement tool, Chrome extension online, time management tool, Snail Timer free, efficiency tool, Ready to use, Lightweight, Automated"
     }
   },
-  "Header": {
-    "title": "Zi Wei Dou Shu"
+  "Hero": {
+    "title1": "ManTunTun: Focus Enhancement Assistant",
+    "title2": "Snail Timer",
+    "title3": "Don't let this cute snail catch up with you",
+    "description": "When you visit non-work-related websites, a cute snail will start chasing you, gradually covering the entire page as time passes until you return to work. Supports custom work website lists and countdown settings."
+  },
+  "SocialProof": {
+    "maker": ""
+  },
+  "Feature": {
+    "title": "Features"
+  },
+  "Pricing": {
+    "title": "Pricing",
+    "title2": "",
+    "description": "Completely free to use, download and experience now",
+    "doYouLike": "",
+    "follow": ""
+  },
+  "Testimonials": {
+    "title": "User Reviews",
+    "description1": "If you use ManTunTun - Snail Timer and recommend it on Twitter,",
+    "description2": "please let me know",
+    "description3": "I will display your tweets and recommendations here."
+  },
+  "FAQ": {
+    "title": "FAQ",
+    "description": "Here are the most frequently asked questions"
   },
   "CTA": {
-    "title": "Generate a free personalized destiny chart",
-    "description1": "Generate",
-    "description2": "Exclusive destiny chart",
+    "title": "Get the Snail Timer Extension for Free",
+    "description1": "Install",
+    "description2": "the extension",
     "description3": "",
-    "description4": "!",
+    "description4": "now",
     "description5": "",
     "description6": ""
   },
-  "FAQ": {
-    "title": "FAQs",
-    "description": "Here are some of the most common questions."
-  },
-  "Hero": {
-    "title1": "A more complex form of Chinese fortune-telling than Chinese Bazi calculation, explore your destiny.",
-    "title2": "Zi Wei Dou Shu",
-    "title3": "Free destiny chart generation",
-    "description": "Since ancient times, humanity has been exploring the mysteries of the universe, seeking to find meaning in life and guidance for the future. Whether it's astrology, tarot cards, numerology, or palmistry, each divination method offers a unique perspective to help us understand ourselves and the world around us. Zi Wei Dou Shu Calculator, Understand your life path, grasp future trends, generate your Zi Wei Dou Shu 2024 destiny chart for free now."
-  },
-  "Feature": { "title": "Functions of destiny chart" },
-  "Pricing": {
-    "title": "Pricing",
-    "follow": "",
-    "title2": "",
-    "doYouLike": "",
-    "description": "Currently, we only provide free Zi Wei Dou Shu destiny chart generation service."
-  },
-  "Testimonials": {
-    "title": "Testimonials",
-    "description1": "If you use this landing page template and recommend it on your Twitter,",
-    "description2": "please let me know",
-    "description3": ". I will display your tweet and recommendation here."
-  },
-  "CTAButton": { "title": "Generate", "title_2": "Analyze Destiny" },
-  "SocialProof": { "maker": "Quickly developed by the creator" },
-  "Metadata": {
-    "home": {
-      "title": "Zi Wei Dou Shu | Chinese Astrology 2024 | Free destiny chart generation",
-      "keywords": [
-        "Zi Wei Dou Shu 2024",
-        "Chinese astrology",
-        "destiny chart",
-        "astrology calculator",
-        "free astrology",
-        "2024 astrology",
-        "Chinese destiny"
-      ],
-      "description": "Explore your destiny with Zi Wei Dou Shu, a complex Chinese astrology. Generate your free personalized destiny chart—ZiWei chart—for insights on personality, career, and more."
-    },
-    "fate": {
-      "title": "Zi Wei Dou Shu Calculator | Chinese Astrology 2024 | Free destiny chart generation",
-      "keywords": [
-        "Zi Wei Dou Shu Calculator",
-        "Chinese astrology",
-        "destiny chart",
-        "astrology calculator",
-        "free astrology",
-        "2024 astrology",
-        "Chinese destiny"
-      ],
-      "description": "The hottest divination methods of 2024: Chinese Astrology 2024, Destiny Studies 2024, Tarot 2024, Palmistry 2024. Here is Chinese Astrology 2024, Zi Wei Dou Shu Calculator, free to generate a life chart, build a complex destiny chart system to reveal one's personality, destiny, and future trends."
-    }
+  "CTAButton": {
+    "title": "Install Extension",
+    "title_2": "Start Using"
   },
   "NotFound": {
     "title": "404 Not Found",
-    "goHome": "go home"
+    "goHome": "Go Home"
   }
 }

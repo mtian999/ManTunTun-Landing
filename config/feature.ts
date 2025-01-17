@@ -1,7 +1,15 @@
-import { LucideIcon } from "lucide-react";
+import {
+  LucideIcon,
+  Brain,
+  ShieldAlert,
+  Timer,
+  CalendarCheck,
+  Settings,
+} from "lucide-react";
 import { IconType } from "react-icons";
-import { BsPersonHeart } from "react-icons/bs";
-import { FaToolbox } from "react-icons/fa";
+import { BsPersonHeart, BsClock } from "react-icons/bs";
+import { FaToolbox, FaRegClock } from "react-icons/fa";
+import { HiOutlineClock, HiOutlineDesktopComputer } from "react-icons/hi";
 import {
   HiAcademicCap,
   HiChatBubbleLeftRight,
@@ -13,58 +21,59 @@ export const FEATURES_EN = [
     title: "Personality Profiling",
     content:
       "A comprehensive analysis of the twelve houses to reveal your multifaceted personality traits.",
-    icon: HiFaceSmile,
+    icon: HiOutlineDesktopComputer,
   },
   {
     title: "Child Education",
     content:
       "Understand how a child's personality manifests in different environments to achieve education tailored to the individual.",
-    icon: HiAcademicCap,
+    icon: FaRegClock,
   },
   {
     title: "Career Planning",
     content:
       "Provide guidance for career choices and future development, helping you to be prepared for the future.",
-    icon: FaToolbox,
+    icon: BsClock,
   },
   {
     title: "Social Conversation",
     content: "As a social tool, quickly narrow the distance between people.",
-    icon: HiChatBubbleLeftRight,
+    icon: HiOutlineClock,
   },
   {
     title: "Partner Selection",
     content:
       "Understand the personality and preferences of the other party through the combination of astrological destiny charts, providing a reference for getting along.",
-    icon: BsPersonHeart,
+    icon: HiOutlineDesktopComputer,
   },
 ];
 
 export const FEATURES_ZH = [
   {
-    title: "性格推演",
-    content: "通过十二宫位全方位分析，揭示您多面立体的个性特征。",
-    icon: HiFaceSmile,
+    title: "专注力提升",
+    content: "你将被一只可爱蜗牛追捕，帮助您保持专注，提高工作效率。",
+    icon: Brain,
   },
   {
-    title: "子女教育",
-    content: "了解孩子在不同环境下的个性表现，实现因材施教。",
-    icon: HiAcademicCap,
+    title: "网站拦截",
+    content:
+      "自定义工作网站列表，当你处于非工作相关网站时，可爱蜗牛立马开启追捕。",
+    icon: ShieldAlert,
   },
   {
-    title: "职业规划",
-    content: "为职业选择和未来发展提供参考，助您未雨绸缪。",
-    icon: FaToolbox,
+    title: "时间管理",
+    content: "设置倒计时，合理安排工作和休息时间。",
+    icon: Timer,
   },
   {
-    title: "社交谈资",
-    content: "作为社交工具，快速拉近人与人之间的距离。",
-    icon: HiChatBubbleLeftRight,
+    title: "习惯养成",
+    content: "通过持续使用，帮助您培养良好的上网习惯。",
+    icon: CalendarCheck,
   },
   {
-    title: "择偶参考",
-    content: "通过星盘组合，了解对方个性和喜好，为相处提供参考。",
-    icon: BsPersonHeart,
+    title: "个性化设置（待开发）",
+    content: "自定义蜗牛速度、动画效果等，打造专属体验。",
+    icon: Settings,
   },
 ];
 

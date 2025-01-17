@@ -1,87 +1,58 @@
 {
-  "Fate": {
-    "h1": "Tạo biểu đồ số phận Zi Wei Dou Shu",
-    "description": "Nhập thông tin và nhấn nút Tạo để nhận biểu đồ số phận riêng của bạn dựa trên Zi Wei Dou Shu",
-    "form": {
-      "birthday": "Ngày sinh",
-      "birthTime": "Giờ sinh",
-      "gender": "Giới tính",
-      "create": "Tạo",
-      "download": "Tải về"
-    }
-  },
   "Header": {
-    "title": "Zi Wei Dou Shu"
+    "title": "Bộ hẹn giờ Ốc sên"
   },
   "Metadata": {
     "home": {
-      "title": "Zi Wei Dou Shu | Tạo miễn phí biểu đồ số phận Zi Wei Dou Shu - Khám phá số phận và xu hướng tương lai",
-      "description": "Phương pháp bói toán nổi bật năm 2024: Zi Wei Dou Shu 2024, Nghệ thuật sinh mệnh 2024, Bội bài 2024, Chân dung học 2024. Đây là trang web của Zi Wei Dou Shu 2024, tạo miễn phí biểu đồ số phận dựa trên Zi Wei Dou Shu, tạo biểu đồ số phận miễn phí, xây dựng một hệ thống phức tạp của biểu đồ số phận, để tiết lộ tính cách, số phận và xu hướng tương lai của cá nhân.",
-      "keywords": [
-        "Zi Wei Dou Shu 2024",
-        "Tạo biểu đồ số phận miễn phí",
-        "Bói toán Trung Quốc",
-        "Triết học cổ đại Trung Quốc"
-      ]
-    },
-    "fate": {
-      "title": "Tạo biểu đồ số phận Zi Wei Dou Shu | Astrology Trung Quốc 2024 | Tạo miễn phí biểu đồ số phận Zi Wei Dou Shu",
-      "description": "Phương pháp bói toán nổi bật năm 2024: Zi Wei Dou Shu 2024, Nghệ thuật sinh mệnh 2024, Bội bài 2024, Chân dung học 2024. Đây là trang web của Zi Wei Dou Shu 2024, tạo miễn phí biểu đồ số phận dựa trên Zi Wei Dou Shu, tạo biểu đồ số phận miễn phí, xây dựng một hệ thống phức tạp của biểu đồ số phận, để tiết lộ tính cách, số phận và xu hướng tương lai của cá nhân.",
-      "keywords": [
-        "Tạo biểu đồ số phận Zi Wei Dou Shu",
-        "Zi Wei Dou Shu 2024",
-        "Tạo biểu đồ số phận miễn phí",
-        "Zi Wei Dou Shu trực tuyến",
-        "Bói toán Zi Wei Dou Shu",
-        "Zi Wei Dou Shu miễn phí",
-        "Công cụ Zi Wei Dou Shu"
-      ]
+      "title": "Bộ hẹn giờ Ốc sên: Tăng cường sự tập trung với tiện ích mở rộng Google Chrome tự động và nhẹ này",
+      "description": "Công cụ hiệu quả phổ biến nhất năm 2025: Bộ hẹn giờ Ốc sên 2025, quản lý thời gian 2025, tiện ích mở rộng Chrome 2025, công cụ năng suất 2025. Bộ hẹn giờ Ốc sên 2025 là một tiện ích mở rộng Chrome miễn phí giúp bạn cải thiện hiệu quả công việc và phát triển thói quen trực tuyến tốt. Nó rất Tiện lợi và Sẵn sàng sử dụng.",
+      "keywords": "Tiện ích mở rộng Bộ hẹn giờ Ốc sên, Bộ hẹn giờ Ốc sên 2025, công cụ tăng cường sự tập trung, tiện ích mở rộng Chrome trực tuyến, công cụ quản lý thời gian, Bộ hẹn giờ Ốc sên miễn phí, công cụ hiệu quả, Ready to use, Lightweight, Automated"
     }
   },
   "Hero": {
-    "title1": "Một thuật toán phức tạp hơn so với Bazi của Trung Quốc, khám phá số phận của bạn.",
-    "title2": "Zi Wei Dou Shu",
-    "title3": "Tạo miễn phí biểu đồ số phận Zi Wei Dou Shu",
-    "description": "Kể từ xưa, con người đã luôn tìm tòi bí mật của vũ trụ, cố gắng tìm ra ý nghĩa của cuộc sống và hướng dẫn cho tương lai. Cho dù là thuật toán sao, bói bài, số học hay chân dung học, mỗi phương pháp bói toán đều cung cấp một góc nhìn độc đáo, giúp chúng ta hiểu bản thân và thế giới xung quanh. Tạo miễn phí biểu đồ số phận Zi Wei Dou Shu, hiểu rõ quỹ đạo của cuộc đời bạn, nắm bắt xu hướng tương lai, hãy tạo ngay biểu đồ số phận của bạn năm 2024 dựa trên Zi Wei Dou Shu."
+    "title1": "ManTunTun: Trợ lý Tăng cường Sự tập trung",
+    "title2": "Bộ hẹn giờ Ốc sên",
+    "title3": "Đừng để con ốc sên dễ thương này đuổi kịp bạn",
+    "description": "Khi bạn truy cập các trang web không liên quan đến công việc, một con ốc sên dễ thương sẽ bắt đầu đuổi theo bạn, dần dần bao phủ toàn bộ trang khi thời gian trôi qua cho đến khi bạn quay lại làm việc. Hỗ trợ danh sách trang web công việc tùy chỉnh và cài đặt đếm ngược."
   },
   "SocialProof": {
     "maker": ""
   },
   "Feature": {
-    "title": "Tác dụng của biểu đồ số phận"
+    "title": "Tính năng"
   },
   "Pricing": {
-    "title": "Giá cả",
+    "title": "Định giá",
     "title2": "",
-    "description": "Hiện tại chỉ cung cấp dịch vụ tạo biểu đồ số phận Zi Wei Dou Shu miễn phí",
+    "description": "Hoàn toàn miễn phí sử dụng, tải xuống và trải nghiệm ngay bây giờ",
     "doYouLike": "",
     "follow": ""
   },
   "Testimonials": {
-    "title": "",
-    "description1": "",
-    "description2": "",
-    "description3": ""
+    "title": "Đánh giá của người dùng",
+    "description1": "Nếu bạn sử dụng ManTunTun - Bộ hẹn giờ Ốc sên và giới thiệu nó trên Twitter,",
+    "description2": "vui lòng cho tôi biết",
+    "description3": "Tôi sẽ hiển thị các tweet và đề xuất của bạn ở đây."
   },
   "FAQ": {
     "title": "Câu hỏi thường gặp",
-    "description": "Dưới đây là một số câu hỏi thường gặp."
+    "description": "Dưới đây là những câu hỏi thường gặp nhất của người dùng"
   },
   "CTA": {
-    "title": "Tạo miễn phí biểu đồ số phận riêng của bạn dựa trên Zi Wei Dou Shu",
-    "description1": "Tạo",
-    "description2": "Biểu đồ số phận riêng của bạn dựa trên Zi Wei Dou Shu",
+    "title": "Tải Tiện ích Mở rộng Bộ hẹn giờ Ốc sên Miễn phí",
+    "description1": "Cài đặt",
+    "description2": "tiện ích mở rộng",
     "description3": "",
-    "description4": "!",
+    "description4": "ngay bây giờ!",
     "description5": "",
     "description6": ""
   },
   "CTAButton": {
-    "title": "Tạo biểu đồ số phận Zi Wei Dou Shu",
-    "title_2": "Phân tích số phận"
+    "title": "Cài đặt Tiện ích Mở rộng",
+    "title_2": "Bắt đầu Sử dụng"
   },
   "NotFound": {
-    "title": "404 Not Found",
-    "goHome": "go home"
+    "title": "404 Không tìm thấy",
+    "goHome": "Trở về Trang chủ"
   }
 }

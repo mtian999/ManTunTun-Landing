@@ -1,6 +1,7 @@
 import { SiteConfig } from "@/types/siteConfig";
-
-const OPEN_SOURCE_URL = "https://github.com/weijunext/landing-page-boilerplate";
+import { BsGithub, BsTwitterX } from "react-icons/bs";
+import { SiBuymeacoffee, SiJuejin } from "react-icons/si";
+import { MdEmail } from "react-icons/md";
 
 const baseSiteConfig = {
   name: "紫微斗数 | 免费生成命盘",
@@ -35,12 +36,11 @@ const baseSiteConfig = {
     apple: "/logo.png",
   },
   headerLinks: [
-    // { name: "repo", href: OPEN_SOURCE_URL, icon: BsGithub },
-    // {
-    //   name: "twitter",
-    //   href: "https://twitter.com/weijunext",
-    //   icon: BsTwitterX,
-    // },
+    {
+      name: "twitter",
+      href: "https://twitter.com/maomaoyu_coffee",
+      icon: BsTwitterX,
+    },
     // {
     //   name: "buyMeCoffee",
     //   href: "https://www.buymeacoffee.com/weijunext",
@@ -48,44 +48,20 @@ const baseSiteConfig = {
     // },
   ],
   footerLinks: [
-    // { name: "email", href: "mailto:weijunext@gmail.com", icon: MdEmail },
-    // {
-    //   name: "twitter",
-    //   href: "https://twitter.com/weijunext",
-    //   icon: BsTwitterX,
-    // },
+    { name: "email", href: "mailto:support@top4ai.com", icon: MdEmail },
+    {
+      name: "twitter",
+      href: "https://twitter.com/maomaoyu_coffee",
+      icon: BsTwitterX,
+    },
     // { name: "github", href: "https://github.com/weijunext/", icon: BsGithub },
     // {
     //   name: "buyMeCoffee",
     //   href: "https://www.buymeacoffee.com/weijunext",
     //   icon: SiBuymeacoffee,
     // },
-    // {
-    //   name: "juejin",
-    //   href: "https://juejin.cn/user/26044008768029",
-    //   icon: SiJuejin,
-    // },
-    // {
-    //   name: "weChat",
-    //   href: "https://weijunext.com/make-a-friend",
-    //   icon: BsWechat,
-    // },
   ],
-  footerProducts: [
-    // { url: "https://weijunext.com/", name: "J实验室" },
-    // { url: "https://smartexcel.cc/", name: "Smart Excel" },
-    // {
-    //   url: "https://landingpage.weijunext.com/",
-    //   name: "Landing Page Boilerplate",
-    // },
-    // { url: "https://nextjs.weijunext.com/", name: "Next.js Practice" },
-    // { url: "https://starter.weijunext.com/", name: "Next.js Starter" },
-    // { url: "https://githubbio.com", name: "Github Bio Generator" },
-    // {
-    //   url: "https://github.com/weijunext/indie-hacker-tools",
-    //   name: "Indie Hacker Tools",
-    // },
-  ],
+  footerProducts: [{ url: "https://top4ai.com/", name: "猫猫鱼 Top4AI Tools" }],
 };
 
 export const siteConfig: SiteConfig = {

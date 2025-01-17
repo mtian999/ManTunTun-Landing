@@ -1,85 +1,63 @@
 {
-  "Fate": {
-    "h1": "紫微斗数排盘",
-    "description": "输入信息点击`生成`按钮获取专属紫薇命盘",
-    "form": {
-      "birthdayType": "日期类型",
-      "birthday": "生日",
-      "birthTime": "时辰",
-      "gender": "性别",
-      "create": "生成",
-      "download": "下载"
-    }
-  },
   "Header": {
-    "title": "紫微斗数"
+    "title": "Snail Timer"
   },
   "Metadata": {
     "home": {
-      "title": "紫微斗数 | 免费紫薇排盘介绍 - 探索命运与未来趋势",
-      "description": "2024最火的算命方法：紫微斗数2024，命理学2024，塔罗牌2024，2024手相学。这里是紫微斗数2024，免费紫薇排盘，免费生成命盘，构建一个复杂的命盘系统，从而揭示个人的性格、命运和未来趋势。",
+      "title": "Snail Timer | 专注力提升助手 - 提高工作效率",
+      "description": "2025最火的效率工具：Snail Timer 2025，时间管理2025，Chrome插件2025，2025生产力工具。这里是Snail Timer 2025，免费Chrome插件，帮助您提高工作效率，培养良好的上网习惯。",
       "keywords": [
-        "紫微斗数2024",
-        "紫微斗数算命",
-        "紫微斗数介绍",
-        "古代中国哲学"
-      ]
-    },
-    "fate": {
-      "title": "紫微斗数排盘 | 紫微斗數算命",
-      "description": "2024最火的算命方法：紫微斗数2024，命理学2024，塔罗牌2024，2024手相学。这里是紫微斗数计算器，免费的紫微斗数命盘排盘工具",
-      "keywords": [
-        "紫微斗数排盘",
-        "紫微斗数2024",
-        "紫微斗數算命",
-        "紫微斗数在线",
-        "紫微斗数占卜",
-        "紫微斗数免费",
-        "紫微斗数工具"
+        "Snail Timer插件",
+        "Snail Timer 2025",
+        "专注力提升工具",
+        "Chrome插件在线",
+        "时间管理工具",
+        "Snail Timer免费",
+        "效率工具"
       ]
     }
   },
   "Hero": {
-    "title1": "比中国八字测算更复杂的命理学，探索你的命运",
-    "title2": "紫微斗数",
-    "title3": "免费紫薇排盘",
-    "description": "自古以来，人类一直在探索宇宙的奥秘，试图从中寻找生命的意义和未来的指引。无论是占星术、塔罗牌、数字学还是手相术，每一种占卜方法都提供了一种独特的视角，帮助我们理解自己和周围的世界。免费紫薇排盘，了解你的人生轨迹，掌握未来趋势，立即免费生成你的2024紫微斗数命盘。"
+    "title1": "慢吞吞：专注力提升助手",
+    "title2": "蜗牛🐌倒计时",
+    "title3": " 不要这只可爱蜗牛追上你",
+    "description": "当你访问非工作相关网站时，一只可爱的蜗牛会开始追赶你，随着时间推移逐渐覆盖整个页面，直到你回到工作状态。支持自定义工作网站列表和倒计时设置。"
   },
   "SocialProof": {
     "maker": ""
   },
   "Feature": {
-    "title": "命盘的作用"
+    "title": "功能特色"
   },
   "Pricing": {
-    "title": "定价",
+    "title": "定价方案",
     "title2": "",
-    "description": "目前只提供免费的紫微斗数命盘生成服务",
+    "description": "完全免费使用，立即下载体验",
     "doYouLike": "",
     "follow": ""
   },
   "Testimonials": {
-    "title": "",
-    "description1": "",
-    "description2": "",
-    "description3": ""
+    "title": "用户评价",
+    "description1": "如果您使用ManTunTun - Snail Timer并在 Twitter 上推荐它，",
+    "description2": "请告诉我",
+    "description3": "我将在这里显示您的推文和推荐。"
   },
   "FAQ": {
-    "title": "FAQs",
-    "description": "这里有一些最常见的问题。"
+    "title": "常见问题",
+    "description": "以下是用户最常问的问题"
   },
   "CTA": {
-    "title": "免费生成您的专属紫薇命盘",
-    "description1": "生成",
-    "description2": "专属紫薇命盘",
+    "title": "免费获取Snail Timer插件",
+    "description1": "立即",
+    "description2": "安装插件",
     "description3": "",
     "description4": "！",
     "description5": "",
     "description6": ""
   },
   "CTAButton": {
-    "title": "紫薇排盘",
-    "title_2": "开始解盘"
+    "title": "安装插件",
+    "title_2": "开始使用"
   },
   "NotFound": {
     "title": "404 未找到",
