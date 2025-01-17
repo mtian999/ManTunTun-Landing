@@ -20,17 +20,7 @@ const Footer = () => {
           <Link href={authors[0].twitter || authors[0].url} target="_blank">
             {authors[0].name}
           </Link>{" "}
-          <p>Powered by</p>{" "}
-          <Link href="https://github.com/SylarLong/iztro" target="_blank">
-            iztro
-          </Link>{" "}
-          <p>licensed under the</p>{" "}
-          <Link
-            href="https://github.com/SylarLong/iztro/blob/main/LICENSE"
-            target="_blank"
-          >
-            MIT License
-          </Link>{" "}
+          <p>All rights reserved.</p>
         </div>
       </div>
     </footer>

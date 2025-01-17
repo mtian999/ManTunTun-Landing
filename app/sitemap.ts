@@ -11,12 +11,6 @@ export default function sitemap(): MetadataRoute.Sitemap {
       changeFrequency: "daily",
       priority: 1,
     },
-    {
-      url: "fate",
-      lastModified: new Date(),
-      changeFrequency: "daily",
-      priority: 1,
-    },
   ];
 
   const sitemapData = sitemapRoutes.flatMap((route) =>

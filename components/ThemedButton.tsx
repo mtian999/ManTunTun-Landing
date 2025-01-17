@@ -19,7 +19,6 @@ export function ThemedButton() {
   }
   return (
     <Button
-      type="text"
       aria-label="change Theme"
       onClick={() => setTheme(theme === "light" ? "dark" : "light")}
     >
