@@ -16,6 +16,7 @@ Blog:
 **全栈裁缝师**
 
 [Top4AI Site](https://top4ai.com/)
+Submissions of interesting tools are welcome
 [Top4AI Blog](https://top4ai.com/blog)
 
 [My Site](https://fate.mastermao.com)  
