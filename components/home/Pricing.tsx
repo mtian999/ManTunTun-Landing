@@ -10,6 +10,7 @@ import {
   Link,
   Spacer,
 } from "@nextui-org/react";
+import toast from "react-hot-toast";
 
 import { siteConfig } from "@/config/site";
 import { ALL_TIERS } from "@/config/tiers";
@@ -79,11 +80,14 @@ const Pricing = ({
             <CardFooter>
               <Button
                 fullWidth
-                as={Link}
+                // as={Link}
                 color={tier.buttonColor}
-                href="https://fate.mastermao.com"
+                // href="https://fate.mastermao.com"
                 variant={tier.buttonVariant}
                 // rel="noopener noreferrer nofollow"
+                onPress={() =>
+                  toast.success("Coming soon to Google Chrome Web Store!")
+                }
               >
                 {tier.buttonText}
               </Button>
