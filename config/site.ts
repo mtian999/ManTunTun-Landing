@@ -4,17 +4,14 @@ import { SiBuymeacoffee, SiJuejin } from "react-icons/si";
 import { MdEmail } from "react-icons/md";
 
 const baseSiteConfig = {
-  name: "紫微斗数 | 免费生成命盘",
+  name: "Snail Timer: Boost Focus with This Lightweight & Automated Google Chrome Extension",
   description:
-    "The hottest divination methods of 2024: Chinese Astrology 2024, Destiny Studies 2024, Tarot 2024, Palmistry 2024. Here is Chinese Astrology 2024, free to generate a life chart, build a complex destiny chart system to reveal one's personality, destiny, and future trends.",
-  url: "https://fate.maomaoyu.coffee",
-  ogImage: "https://landingpage.weijunext.com/og.png",
+    "The most popular efficiency tool in 2025: Snail Timer 2025, time management 2025, Chrome extension 2025, productivity tool 2025. Snail Timer 2025 is a free Chrome extension that helps you improve work efficiency and develop good online habits. It's very Convenient and Ready to use.",
+  url: "https://snailtimer.top4ai.com",
+  ogImage: "/logo.png",
   metadataBase: "/",
   keywords: [
-    "different methods of divination",
-    "Zi Wei Dou Shu",
-    "Zi Wei Dou Shu 2024",
-    "Zi Wei Dou Shu Free 2024",
+    "Snail Timer extension, Snail Timer 2025, focus enhancement tool, Chrome extension online, time management tool, Snail Timer free, efficiency tool, Ready to use, Lightweight, Automated",
   ],
   authors: [
     {
