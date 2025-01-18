@@ -2,8 +2,8 @@ export const TestimonialsData = [
   {
     user: {
       name: "Alex Johnson",
-      username: "weijunext",
-      image: "/images/users/weijunext.jpeg",
+      username: "top4ai",
+      image: "/images/users/top4ai.jpeg",
     },
     content:
       "Snail Timer has completely transformed my productivity. As a developer, I often get distracted by non-work websites, but now the cute snail keeps me focused. The customizable work site list and timer settings make it perfect for my workflow.",
@@ -11,7 +11,7 @@ export const TestimonialsData = [
   {
     user: {
       name: "Sarah Thompson",
-      username: "weijunext",
+      username: "top4ai",
       image: "/images/users/1.png",
     },
     content:
@@ -20,7 +20,7 @@ export const TestimonialsData = [
   {
     user: {
       name: "Michael Chen",
-      username: "weijunext",
+      username: "top4ai",
       image: "/images/users/2.png",
     },
     content:
@@ -29,7 +29,7 @@ export const TestimonialsData = [
   {
     user: {
       name: "Emily Rodriguez",
-      username: "weijunext",
+      username: "top4ai",
       image: "/images/users/3.png",
     },
     content:
@@ -38,7 +38,7 @@ export const TestimonialsData = [
   {
     user: {
       name: "David Wilson",
-      username: "weijunext",
+      username: "top4ai",
       image: "/images/users/4.png",
     },
     content:
@@ -47,7 +47,7 @@ export const TestimonialsData = [
   {
     user: {
       name: "Jessica Lee",
-      username: "weijunext",
+      username: "top4ai",
       image: "/images/users/5.png",
     },
     content:
@@ -56,7 +56,7 @@ export const TestimonialsData = [
   {
     user: {
       name: "Daniel Brown",
-      username: "weijunext",
+      username: "top4ai",
       image: "/images/users/4.png",
     },
     content:
@@ -65,7 +65,7 @@ export const TestimonialsData = [
   {
     user: {
       name: "Olivia Martinez",
-      username: "weijunext",
+      username: "top4ai",
       image: "/images/users/5.png",
     },
     content:
