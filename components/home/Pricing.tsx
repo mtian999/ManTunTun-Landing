@@ -78,19 +78,21 @@ const Pricing = ({
               </ul>
             </CardBody>
             <CardFooter>
-              <Button
-                fullWidth
-                // as={Link}
-                color={tier.buttonColor}
-                // href="https://fate.mastermao.com"
-                variant={tier.buttonVariant}
-                // rel="noopener noreferrer nofollow"
-                onPress={() =>
-                  toast.success("Coming soon to Google Chrome Web Store!")
-                }
+              <Link
+                href="https://chromewebstore.google.com/detail/%E6%85%A2%E5%90%9E%E5%90%9E-snail-timer/pielpldocfdkhhmmjokmadnbjcchfcol"
+                rel="noopener noreferrer nofollow"
               >
-                {tier.buttonText}
-              </Button>
+                <Button
+                  fullWidth
+                  // as={Link}
+                  color={tier.buttonColor}
+                  // href="https://fate.mastermao.com"
+                  variant={tier.buttonVariant}
+                  // rel="noopener noreferrer nofollow"
+                >
+                  {tier.buttonText}
+                </Button>
+              </Link>
             </CardFooter>
           </Card>
         ))}
